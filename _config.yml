@@ -1,8 +1,8 @@
 # Setup
 title: Dark Poole
-url: https://goongoguma.github.io/archive
+url: https://getpoole.com
 paginate: 1
-baseurl: "archive"
+baseurl: ""
 permalink: pretty
 
 # Gems
