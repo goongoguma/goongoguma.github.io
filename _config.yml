@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Dark
 url: https://goongoguma.github.io/
 paginate: 1
 baseurl: ""
@@ -43,6 +43,3 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /archive
-
-  - title: About
-    url: /about
