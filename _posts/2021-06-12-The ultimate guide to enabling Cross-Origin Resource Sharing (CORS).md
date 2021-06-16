@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The ultimate guide to enabling Cross-Origin Resource Sharing (CORS)
+title: The ultimate guide to enabling Cross-Origin Resource Sharing (CORS) (번역)
 ---
 
 다음과 같은 경우를 생각해보겠습니다: 여러분이 <mark>fetch()</mark>를 사용하여 여러분의 웹사이트에서 사용할 데이터를 API로부터 가져오려고 합니다 하지만 에러가 발생하게 됩니다. 
