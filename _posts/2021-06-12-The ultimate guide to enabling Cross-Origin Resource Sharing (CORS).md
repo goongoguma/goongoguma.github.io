@@ -3,7 +3,7 @@ layout: post
 title: The ultimate guide to enabling Cross-Origin Resource Sharing (CORS) (번역)
 ---
 
-다음과 같은 경우를 생각해보겠습니다: 여러분이 <mark>fetch()</mark>를 사용하여 여러분의 웹사이트에서 사용할 데이터를 API로부터 가져오려고 합니다 하지만 에러가 발생하게 됩니다. 
+다음과 같은 경우를 생각해보겠습니다: 여러분이 <mark>fetch()</mark>를 사용하여 여러분의 웹사이트에서 사용할 데이터를 API로부터 가져오려고 하지만 에러가 발생하게 됩니다. 
 
 콘솔창을 열었더니 여러분이 서버에 보낸 요청이 CORS 정책에 의해 막혔음을 알리는 "No <mark>Access-Control-Allow-Origin</mark> header is present on the requested resource" 혹은 "The <mark>Access-Control-Allow-Origin</mark> header has a value <mark>(some_url)</mark>that is not equal to the supplied origin" 메세지가 빨간 글씨로 나타났습니다. 
 
