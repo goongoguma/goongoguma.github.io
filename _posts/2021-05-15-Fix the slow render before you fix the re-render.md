@@ -3,9 +3,6 @@ layout: post
 title: Fix the slow render before you fix the re-render (번역)
 ---
 
-Fix the slow render before you fix the re-render
-==========================================================
-
 어떻게 하면 리액트앱의 랜더링을 최적화 할 수 있을까요?
 
 성능(Performance)은 진지한 이슈죠 그리고 개발자는 앱의 성능을 최대한 빠르게 만들 필요가 있습니다.

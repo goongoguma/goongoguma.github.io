@@ -3,9 +3,6 @@ layout: post
 title: When to useMemo and useCallback (번역)
 ---
 
-When to useMemo and useCallback
-====================================
-
 _최적화에는 비용이 있기 마련이며 무조건 유익한것은 아닙니다. 이 글에서는 useMemo와 useCallback을 사용함으로써 발생되는 비용과 혜택을 설명해보겠습니다_
 
 

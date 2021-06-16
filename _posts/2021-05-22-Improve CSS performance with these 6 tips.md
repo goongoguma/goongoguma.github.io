@@ -3,9 +3,6 @@ layout: post
 title: Improve CSS performance with these 6 tips (번역)
 ---
 
-Improve CSS performance with these 6 tips
-===================================================
-
 Introduction
 =======================
 

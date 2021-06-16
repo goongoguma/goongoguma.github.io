@@ -3,9 +3,6 @@ layout: post
 title: How to use React Context effectively (번역)
 ---
 
-How to use React Context effectively
-=========================================
-
 [리액트의 어플리케이션 상태 관리(Application State Management)](https://kentcdodds.com/blog/application-state-management-with-react)에서 어떻게 하면 리액트 어플리케이션에서의 로컬 state와 context의 조합이 상태관리에 있어 도움을 주는지 이야기 했습니다. 몇 개의 예시를 보여드리면서 몇몇 부분과 어떻게 하면 리액트의 context consumer를 효과적으로 만들어, 발생할 수 있는 문제를 피하고 개발자 경험과 여러분이 어플리케이션이나 라이브러리를 위해 만든 context 객체의 유지성을 향상시킬 수 있는지도 강조했습니다. 
 
 _[리액트의 어플리케이션 상태 관리(Application State Management)](https://kentcdodds.com/blog/application-state-management-with-react)를 읽고 마주치는 모든 state 공유 문제를 해결하기 위해 context를 쓰지말아주세요. 그러나 context가 필요한 순간에, 이 블로그 포스트가 어떻게 하면 효과적으로 context를 사용할 수 있는지 도움을 주었으면 합니다. 또한, context는 앱 전체에서 전역으로 사용될 필요가 없다는것을 알아두세요. 하지만 context는 트리(tree)의 한 부분에 적용될 수 있으며 앱 안에서 논리적으로 분리된 여러개의 context들을 가질 수 있습니다(아마도 그럴겁니다)._

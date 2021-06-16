@@ -3,9 +3,6 @@ layout: post
 title: Server-Side Rendering vs. Static Site Generation (번역)
 ---
 
-Server-Side Rendering vs. Static Site Generation
-==============================================================================================
-
 이 분야에서는 많은 유행어를 보게됩니다. 그 중에는 Static Site Generation (SSG)과 Server Side Rendering (SSR)이 있습니다.
 
 [Server-Side Rendering vs. Static Site Generation_1.jpg]

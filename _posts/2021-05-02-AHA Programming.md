@@ -3,10 +3,9 @@ layout: post
 title: AHA Programming (번역)
 ---
 
-AHA Programming
-===============================
-
 _DRY의 위험성, WET의 거미줄, AHA의 대단함_
+
+[Watch my talk: AHA Programming](https://youtu.be/wuVy7rwkCfc)
 
 DRY
 ==============================
