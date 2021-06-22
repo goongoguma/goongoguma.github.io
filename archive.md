@@ -6,7 +6,9 @@ title: Archive
 # Archive
 
 Goongoguma의 블로그 <br />
-(오역이 있는 경우, wogus7an@gmail.com으로 알려주시면 감사하겠습니다.)
+👇<br />
+_GitHub: [https://github.com/goongoguma](https://github.com/goongoguma)_
+
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
